@@ -1,0 +1,247 @@
+{
+  "conceptual": [
+    {
+      "q": "Which type of valve is primarily used to completely isolate a section of a water main during an emergency main break repair?",
+      "a": ["Check valve", "Gate valve", "Air release valve", "Pressure reducing valve"],
+      "correct": 1,
+      "why": "Gate valves offer completely unobstructed flow when fully open and are specifically designed to start or stop flow for system isolation."
+    },
+    {
+      "q": "What is the minimum pressure that must be maintained at all points in a public water distribution system under normal operating conditions?",
+      "a": ["10 psi", "20 psi", "50 psi", "100 psi"],
+      "correct": 1,
+      "why": "A minimum of 20 psi is required by California state health regulations to protect the structural integrity of the water system against backflow or backsiphonage contamination."
+    },
+    {
+      "q": "What is the primary function of a standard check valve installed on a pump discharge line?",
+      "a": ["Regulate high downstream pressures", "Vent trapped air out of the system lines", "Prevent flow reversal (backflow) when the pump shuts off", "Drain water lines for routine line servicing"],
+      "correct": 2,
+      "why": "Check valves are automatic mechanical elements engineered to allow water to travel forward while checking or preventing backward flow."
+    },
+    {
+      "q": "What type of fire hydrant configuration is specifically utilized in freezing climates to prevent mechanical components from cracking?",
+      "a": ["Wet-barrel hydrant", "Dry-barrel hydrant", "Flush hydrant", "Warm-climate standard hydrant"],
+      "correct": 1,
+      "why": "Dry-barrel hydrants hold the operating valve safely below the frost line in the ground. The barrel drains completely when shut so standing water cannot freeze and rupture the casing."
+    },
+    {
+      "q": "What is the distinct rotten-egg odor occasionally found in groundwater wells typically caused by?",
+      "a": ["Calcium carbonate precipitation", "Hydrogen sulfide gas", "Over-dosage of sodium hypochlorite", "Dissolved organic iron accumulation"],
+      "correct": 1,
+      "why": "Hydrogen sulfide gas ($H_2S$) produces a highly noticeable 'rotten-egg' smell even at very low concentrations and is common in anaerobic groundwater settings."
+    },
+    {
+      "q": "Which sampling protocol is mandatory when testing a distribution system for compliance with the Total Coliform Rule?",
+      "a": ["Samples must be collected from a single master reservoir exclusively", "Samples must be collected at regular intervals from representative points throughout the distribution loop", "Samples must be collected only after a major water main break occurs", "Samples must be heated to 100°C prior to laboratory delivery"],
+      "correct": 1,
+      "why": "The Total Coliform Rule requires regular, system-wide representative sampling to ensure active biological protection across the entire physical distribution infrastructure."
+    },
+    {
+      "q": "What is the chemical form of chlorine that is a yellow-green gas, 2.5 times heavier than air, and requires extreme respiratory safety precautions?",
+      "a": ["Sodium hypochlorite", "Calcium hypochlorite", "Chlorine gas", "Chloramine compound"],
+      "correct": 2,
+      "why": "Liquid/gas element chlorine ($Cl_2$) is 100% pure chlorine gas, highly toxic, heavier than air, and stored in pressurized cylinders under strict safety guidelines."
+    },
+    {
+      "q": "What does a positive coliform test sample look like when using the Presence-Absence (P-A) coliform broth testing technique?",
+      "a": ["The clear broth sample turns a distinct blue under UV light", "The yellow broth remains completely transparent with no visual change", "The broth medium shifts from its original red/amber color to a vibrant yellow", "The broth sample develops a heavy layer of dark white sediment at the bottom"],
+      "correct": 2,
+      "why": "Coliform bacteria ferment the lactose present in P-A broth, releasing organic acids that drop the pH and cause the chemical indicator to shift from purple/amber to bright yellow."
+    },
+    {
+      "q": "Which type of pipe joint provides the most mechanical flexibility and is highly suited for installation in areas prone to minor soil settling or earth movement?",
+      "a": ["Flanged joint", "Mechanical joint", "Threaded joint", "Solvent-welded joint"],
+      "correct": 1,
+      "why": "Mechanical joints use a rubber gasket compression mechanism that permits both deflection and slight axial movement, making them highly resilient against soil displacement."
+    },
+    {
+      "q": "What is the primary objective of flushing a dead-end water main within a distribution network?",
+      "a": ["To decrease water pressure in nearby commercial zones", "To remove stagnant water, clear out sediment, and re-establish a high chlorine residual", "To inspect internal pipe thickness visually", "To increase the total hardness of the localized supply"],
+      "correct": 1,
+      "why": "Dead-end lines suffer from low demand, causing disinfection residuals to drop and particulates to settle. Scheduled flushing pulls fresh, chlorinated water into the segment."
+    },
+    {
+      "q": "What component of a centrifugal pump prevents water under pressure from leaking out along the rotating pump shaft?",
+      "a": ["The wear rings", "The impeller vane", "The mechanical seal or packing gland", "The volute casing"],
+      "correct": 2,
+      "why": "The mechanical seal or packing rings form a tight seal between the stationary pump housing and the moving shaft, containing pressurized system fluids."
+    },
+    {
+      "q": "What is a main symptom indicating that a water distribution system is experiencing water hammer?",
+      "a": ["A sharp drop in well water temperature", "A loud thumping sound or physical shockwave running through the pipeline infrastructure", "Rapid formation of scale deposit inside service lines", "A localized shift in total dissolved solids"],
+      "correct": 1,
+      "why": "Water hammer happens when water velocity changes abruptly (like rapid valve closure), converting kinetic energy into high-pressure shockwaves that shake pipes."
+    },
+    {
+      "q": "Which basic safety device must be placed near the top of all major storage tanks to allow air to enter or escape as water levels fluctuate?",
+      "a": ["Pressure relief valve", "Air vent with a fine-mesh corrosion-resistant screen", "Blow-off valve assembly", "Altitude control valve loop"],
+      "correct": 1,
+      "why": "Vents allow atmospheric breathing to prevent structural collapse from vacuum when draining, or over-pressurization when filling. The screen blocks birds and bugs."
+    },
+    {
+      "q": "What form of backflow occurs when an elevated customer piping setup drops below the atmospheric distribution pressure, causing water to siphon backwards into the utility grid?",
+      "a": ["Backpressure", "Backsiphonage", "Thermal expansion deflection", "Head loss equalization"],
+      "correct": 1,
+      "why": "Backsiphonage happens when a negative or sub-atmospheric pressure in the utility supply main sucks non-potable water out of consumer installations."
+    },
+    {
+      "q": "What is the primary indicator used to confirm that an active water distribution line is experiencing external or internal corrosion?",
+      "a": ["A rapid surge in water temperature", "An accumulation of red/brown rusty water alongside customer complaints of metallic taste", "A sharp decrease in static pressures", "A structural increase in pH levels past 9.0"],
+      "correct": 1,
+      "why": "Iron oxidation (rusting) sheds ferric particulates into the flow stream, turning the fluid brown or orange and degrading aesthetic water quality."
+    },
+    {
+      "q": "Which organization sets primary health standards for drinking water contaminants that water utilities are legally bound to enforce?",
+      "a": ["American Water Works Association (AWWA)", "Environmental Protection Agency (EPA)", "Local plumbing inspection boards", "Federal Emergency Management Agency (FEMA)"],
+      "correct": 1,
+      "why": "The federal EPA establishes maximum contaminant levels (MCLs) under the Safe Drinking Water Act, which states then enforce or tighten."
+    },
+    {
+      "q": "What is the term for the vertical distance from the centerline of a pump impeller up to the free surface of the water in the discharge reservoir?",
+      "a": ["Static suction lift", "Static discharge head", "Total dynamic head", "Friction head loss"],
+      "correct": 1,
+      "why": "Static discharge head represents the vertical distance water must be lifted on the high-pressure discharge side of a pumping installation."
+    },
+    {
+      "q": "What type of sample should be collected when checking the immediate chlorine residual at a specific remote node in the distribution loop?",
+      "a": ["Composite sample", "Grab sample", "24-hour proportional stream", "Core sample"],
+      "correct": 1,
+      "why": "A grab sample represents water characteristics at that precise location and instant in time, which is required for dynamic parameters like chlorine residual."
+    },
+    {
+      "q": "What type of safe shoring protection is required for workers entering a utility trench that measures 5 feet or deeper?",
+      "a": ["Standard sand bags stacked along the ledge", "Plywood sheets without struts", "Approved trench box or hydraulic shoring jacks", "No shoring is needed if digging in clay"],
+      "correct": 2,
+      "why": "OSHA mandates certified protective systems (shoring, shielding, or sloping) for any excavation 5 feet or deeper to prevent deadly cave-ins."
+    },
+    {
+      "q": "What common chemical is regularly added at the tail-end of water treatment to elevate pH levels and minimize piping system corrosion?",
+      "a": ["Sodium hydroxide (caustic soda)", "Aluminum sulfate", "Hydrofluosilicic acid", "Ferric chloride"],
+      "correct": 0,
+      "why": "Caustic soda or lime increases alkalinity and pH, making the water less aggressive and reducing lead or copper leaching from pipes."
+    },
+    {
+      "q": "What type of distribution pump uses an internal spinning impeller to accelerate water and convert velocity into pressure inside a volute casing?",
+      "a": ["Reciprocating piston pump", "Centrifugal pump", "Rotary gear pump", "Peristaltic hose pump"],
+      "correct": 1,
+      "why": "Centrifugal pumps use centrifugal force via a rotating impeller to throw water outward into a widening volute channel, increasing fluid pressure."
+    },
+    {
+      "q": "What does the abbreviation 'MCL' stand for in water quality compliance guidelines?",
+      "a": ["Minimum Chlorine Level", "Maximum Contaminant Level", "Mean Core Length", "Mandatory Laboratory Certification"],
+      "correct": 1,
+      "why": "Maximum Contaminant Level (MCL) is the legal threshold limit on the amount of a specific substance allowed in public drinking water systems."
+    },
+    {
+      "q": "What is the purpose of placing a thrust block at a sharp 90-degree bend in a high-pressure water main?",
+      "a": ["To insulate pipes from low freezing temperatures", "To prevent the piping joints from pulling apart due to hydraulic pressure forces", "To facilitate easier flow monitoring", "To reduce internal friction loss coefficients"],
+      "correct": 1,
+      "why": "Massive momentum shifts at fittings create physical thrust forces. Concrete thrust blocks transfer this load safely to the surrounding stable trench wall."
+    },
+    {
+      "q": "What device is engineered to release trapped pockets of air that collect at localized high elevation points along a main pipeline?",
+      "a": ["Blow-off assembly", "Air release valve", "Pressure reducing regulator", "Foot valve"],
+      "correct": 1,
+      "why": "Air bubbles migrate to high points, restricting water flow and increasing pumping costs. Air release valves open automatically to vent this gas."
+    },
+    {
+      "q": "What basic parameter does an operator measure using an amperometric titration instrument or DPD colorimeter?",
+      "a": ["Water turbidity levels", "Total dissolved solids concentration", "Chlorine residual", "Total hardness mapping"],
+      "correct": 2,
+      "why": "DPD reagents react with chlorine to produce a pink color. The intensity is measured colorimetrically to verify free or total chlorine residuals."
+    },
+    {
+      "q": "Which type of microorganism is entirely multi-cellular, complex, and typically forms microscopic cysts that are highly resistant to standard chlorine disinfection?",
+      "a": ["Coliform bacteria", "Enteric viruses", "Protozoan parasites (like Giardia)", "Filamentous algae strains"],
+      "correct": 2,
+      "why": "Protozoa like Cryptosporidium and Giardia possess tough outer shells (cysts) protecting them from chemical disinfection, requiring active physical filtration."
+    },
+    {
+      "q": "What standard color utility paint is universally used to mark out underground potable water lines before an excavation begins?",
+      "a": ["Safety Red", "High-Visibility Yellow", "Safety Blue", "Safety Green"],
+      "correct": 2,
+      "why": "Under the international color code for marking underground utilities, blue represents drinking water, red is electrical, and yellow is gas lines."
+    },
+    {
+      "q": "What is the primary operational hazard of letting a water storage tank sit completely empty for an extended duration?",
+      "a": ["Rapid decline in mineral hardness", "Structural buckling from external wind loads or soil pressure shifts", "Algae blooming inside dark spaces", "Instant acceleration of water hammer issues"],
+      "correct": 1,
+      "why": "Empty above-ground tanks lose their internal stabilizing weight, making them vulnerable to wind tipping, or structural collapse if buried."
+    },
+    {
+      "q": "What type of pipe material is highly non-corrosive, semi-flexible, light, and widely utilized for modern small-diameter residential water service connections?",
+      "a": ["Ductile iron", "Prestressed concrete cylinder pipe", "Copper or Polyethylene (PE)", "Unreinforced gray cast iron"],
+      "correct": 2,
+      "why": "Copper and flexible plastics like HDPE or PE offer superior corrosion resistance, easy trench routing, and reliable durability for service lines."
+    },
+    {
+      "q": "What condition occurs if an operator opens a fire hydrant way too quickly on a high-capacity distribution transmission loop?",
+      "a": ["Instant loss of well pump prime", "Water hammer shockwaves and localized low-pressure drops", "Rapid increase in water hardness parameters", "Immediate depletion of groundwater aquifers"],
+      "correct": 1,
+      "why": "Abruptly shifting a large volume of water creates immense pressure differentials and surging velocity waves that can easily fracture distribution mains."
+    }
+  ],
+  "math": [
+    {
+      "q": "A distribution pressure gauge installed at the base of an elevated steel storage tank reads 43.3 psi. What is the approximate height of the water level above that gauge?",
+      "a": ["43.3 feet", "75.0 feet", "100 feet", "120 feet"],
+      "correct": 2,
+      "why": "Every 1 psi of pressure equals 2.31 feet of vertical elevation (head). Calculation: $43.3 \\text{ psi} \\times 2.31 \\text{ ft/psi} = 100.02 \\text{ feet}$."
+    },
+    {
+      "q": "How many gallons of water can be stored inside a newly installed 8-inch diameter distribution pipeline that spans exactly 100 feet in length?",
+      "a": ["150 gallons", "261 gallons", "344 gallons", "522 gallons"],
+      "correct": 1,
+      "why": "Using the volume formula: $\\text{Volume} = 0.785 \\times D^2 \\times L \\times 7.48$. First convert 8 inches to feet ($8 / 12 = 0.667 \\text{ ft}$). Calculation: $0.785 \\times (0.667)^2 \\times 100 \\times 7.48 = 261.3 \\text{ gallons}$."
+    },
+    {
+      "q": "A distribution crew refills an empty 50,000-gallon water storage tank using a steady pump feed rate of 250 gallons per minute (gpm). How many hours will it take to fill the tank completely?",
+      "a": ["2.0 hours", "3.3 hours", "5.0 hours", "8.5 hours"],
+      "correct": 1,
+      "why": "First, find the total minutes needed: $50,000 \\text{ gal} / 250 \\text{ gpm} = 200 \\text{ minutes}$. Convert minutes to hours: $200 \\text{ min} / 60 \\text{ min/hr} = 3.33 \\text{ hours}$."
+    },
+    {
+      "q": "A pipeline repair requires an operator to dose a 10,000-gallon water main segment with chlorine gas to a high target concentration of 50 mg/L. How many pounds of pure chlorine gas are required?",
+      "a": ["2.5 lbs", "4.2 lbs", "8.3 lbs", "12.1 lbs"],
+      "correct": 1,
+      "why": "Using the Pounds Formula: $\\text{lbs} = \\text{Volume (MG)} \\times \\text{Dose (mg/L)} \\times 8.34$. Convert 10,000 gallons to MG ($10,000 / 1,000,000 = 0.01 \\text{ MG}$). Calculation: $0.01 \\times 50 \\times 8.34 = 4.17 \\text{ lbs}$."
+    },
+    {
+      "q": "A customer service line records a steady leak rate of 0.5 gallons per minute (gpm). How many total gallons of treated water are lost through this leak during an entire 30-day billing cycle?",
+      "a": ["720 gallons", "1,440 gallons", "15,000 gallons", "21,600 gallons"],
+      "correct": 3,
+      "why": "Calculate daily loss: $0.5 \\text{ gpm} \\times 60 \\text{ min/hr} \\times 24 \\text{ hr/day} = 720 \\text{ gallons/day}$. Multiplied over 30 days: $720 \\text{ gpd} \\times 30 \\text{ days} = 21,600 \\text{ gallons}$."
+    },
+    {
+      "q": "What is the pressure in psi at the bottom of a water storage reservoir if the depth of the water is exactly 46.2 feet?",
+      "a": ["15 psi", "20 psi", "35 psi", "43 psi"],
+      "correct": 1,
+      "why": "Every 2.31 feet of water height creates exactly 1 psi of water pressure. Calculation: $46.2 \\text{ ft} / 2.31 \\text{ ft/psi} = 20 \\text{ psi}$."
+    },
+    {
+      "q": "A water system chlorinator treats a daily flow of 2.50 MGD. If it feeds 41.7 pounds of chlorine gas over a 24-hour period, what is the resulting chlorine dose rate in mg/L?",
+      "a": ["1.0 mg/L", "2.0 mg/L", "2.5 mg/L", "3.1 mg/L"],
+      "correct": 1,
+      "why": "Rearranging the Pounds Formula: $\\text{Dose (mg/L)} = \\text{lbs} / (\\text{Flow} \\times 8.34)$. Calculation: $41.7 / (2.50 \\times 8.34) = 41.7 / 20.85 = 2.0 \\text{ mg/L}$."
+    },
+    {
+      "q": "How many cubic feet of soil must be excavated to dig a utility trench that is 50 feet long, 3 feet wide, and 6 feet deep?",
+      "a": ["150 cu ft", "300 cu ft", "600 cu ft", "900 cu ft"],
+      "correct": 3,
+      "why": "Volume = Length × Width × Depth. Calculation: $50 \\text{ ft} \\times 3 \\text{ ft} \\times 6 \\text{ ft} = 900 \\text{ cubic feet}$."
+    },
+    {
+      "q": "A utility pump delivers a flow rate of 450 gallons per minute. What is this equivalent pump discharge capacity expressed in Million Gallons per Day (MGD)?",
+      "a": ["0.45 MGD", "0.65 MGD", "0.90 MGD", "1.25 MGD"],
+      "correct": 1,
+      "why": "Convert gpm to gpd: $450 \\text{ gpm} \\times 1440 \\text{ min/day} = 648,000 \\text{ gallons/day}$. Divided by 1,000,000 gives $0.648 \\text{ MGD}$ (rounds to 0.65)."
+    },
+    {
+      "q": "An operator must disinfect a new 4,000-gallon water truck. If the instructions mandate a strong chlorine solution of 200 mg/L, how many pounds of chlorine gas are needed?",
+      "a": ["2.2 lbs", "4.8 lbs", "6.7 lbs", "8.3 lbs"],
+      "correct": 2,
+      "why": "Pounds Formula: $0.004 \\text{ MG} \\times 200 \\text{ mg/L} \\times 8.34 = 6.672 \\text{ lbs}$."
+    }
+  ]
+}
+
