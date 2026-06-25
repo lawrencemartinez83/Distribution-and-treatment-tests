@@ -1,0 +1,248 @@
+{
+  "conceptual": [
+    {
+      "q": "What is the primary purpose of adding a coagulant chemical like aluminum sulfate (alum) to raw water during the treatment process?",
+      "a": ["To actively kill pathogenic bacteria and viruses", "To neutralize negative charges on suspended particles so they can bind together", "To drastically raise the total hardness of the water", "To prevent corrosion inside the distribution mains"],
+      "correct": 1,
+      "why": "Suspended colloidal particles have negative electrical charges that repel each other. Coagulants provide positive charges to neutralize them, allowing them to clump into larger, settleable flocs."
+    },
+    {
+      "q": "Which chemical is the most commonly utilized primary disinfectant in California water treatment plants?",
+      "a": ["Sodium hydroxide", "Chlorine (gas or liquid hypochlorite)", "Copper sulfate", "Activated carbon"],
+      "correct": 1,
+      "why": "Chlorine is highly effective, relatively inexpensive, and provides a crucial protective residual throughout the distribution system."
+    },
+    {
+      "q": "What is the term used to describe the visible clumps of suspended matter formed during the coagulation and flocculation stages?",
+      "a": ["Scale", "Sludge", "Floc", "Turbidity"],
+      "correct": 2,
+      "why": "Floc is the heavy, snowflake-like accumulation of neutralized particles and coagulant precipitates that forms during gentle mixing."
+    },
+    {
+      "q": "What process uses gravity to settle out heavy floc particles from the water column before it reaches the filters?",
+      "a": ["Flocculation", "Sedimentation", "Disinfection", "Aeration"],
+      "correct": 1,
+      "why": "Sedimentation reduces the particulate load on the filters by allowing gravity to pull the heavy floc down into sludge hoppers at the bottom of the basin."
+    },
+    {
+      "q": "What does a target turbidity reading of 0.3 NTU or less in the combined filter effluent primarily indicate?",
+      "a": ["The water is completely free of dissolved iron", "The filtration process is highly effective at removing microscopic particulates", "The chlorine residual is too low", "The water has a perfectly neutral pH of 7.0"],
+      "correct": 1,
+      "why": "Turbidity measures water clarity. Low NTU readings prove that the filters are successfully trapping sub-micron particles, including potential pathogen cysts like Giardia."
+    },
+    {
+      "q": "Which parameter must an operator monitor to ensure that the chemical disinfection process has met regulatory primary health standards?",
+      "a": ["Hardness", "Fluoride content", "CT value (Concentration x Contact Time)", "Total Dissolved Solids"],
+      "correct": 2,
+      "why": "The CT calculation (Disinfectant Concentration multiplied by the Time water is in contact with it) determines the log-reduction and inactivation of pathogens."
+    },
+    {
+      "q": "What type of sample must be collected immediately to measure dynamic properties like temperature, pH, and chlorine residual?",
+      "a": ["Composite sample", "Grab sample", "24-hour proportional stream", "Core sample"],
+      "correct": 1,
+      "why": "Grab samples represent water chemistry at one exact moment and location, which is required for unstable parameters that shift quickly if left sitting."
+    },
+    {
+      "q": "What happens when chlorine gas is mixed with water during the disinfection process?",
+      "a": ["It raises the pH drastically", "It forms hypochlorous acid and hydrochloric acid, lowering the pH", "It increases the total dissolved calcium levels", "It turns the water a bright blue color"],
+      "correct": 1,
+      "why": "Chlorine gas reacts with water to form Hypochlorous acid ($HOCl$, the active killing form) and Hydrochloric acid ($HCl$), which reduces the water's alkalinity and drops the pH."
+    },
+    {
+      "q": "What is the primary operational hazard of over-mixing water during the flocculation stage?",
+      "a": ["It will cause the chlorine residual to evaporate", "It will shear or break apart the fragile floc clumps, making them too small to settle", "It will cause the water temperature to skyrocket", "It will instantly dissolve the filter sand"],
+      "correct": 1,
+      "why": "Flocculation requires gentle, controlled agitation. If the mixing speed is too high, the mechanical shear will tear apart the floc, ruining sedimentation efficiency."
+    },
+    {
+      "q": "What color is a standard pressurized chlorine gas cylinder?",
+      "a": ["Bright red", "Safety yellow", "Safety blue", "Dark green"],
+      "correct": 1,
+      "why": "Chlorine gas containers are painted safety yellow universally in the utility industry to signal highly toxic and corrosive compressed gas contents."
+    },
+    {
+      "q": "What is the primary indicator of fecal contamination when conducting bacteriological testing on a drinking water supply?",
+      "a": ["Total iron bacteria", "Escherichia coli (E. coli)", "Heterotrophic plate count", "Sulfate-reducing bacteria"],
+      "correct": 1,
+      "why": "E. coli is a coliform species that resides exclusively in the intestines of warm-blooded animals, making its presence a definitive sign of recent fecal pollution."
+    },
+    {
+      "q": "What process is used to clean a rapid sand filter when trapped particulates cause head loss to maximize?",
+      "a": ["Flocculation wash", "Backwashing", "Acid soaking", "Chlorine scrubbing"],
+      "correct": 1,
+      "why": "Backwashing forces treated water backward up through the filter bed, expanding the sand media and flushing the trapped sediment out to the waste washwater lagoon."
+    },
+    {
+      "q": "What chemical can be added to water to increase its alkalinity and elevate its pH level?",
+      "a": ["Aluminum sulfate", "Sulfuric acid", "Sodium hydroxide (caustic soda) or lime", "Hydrofluosilicic acid"],
+      "correct": 2,
+      "why": "Caustic soda ($NaOH$) and hydrated lime ($Ca(OH)_2$) are strong bases used by operators to neutralize acids, increase alkalinity, and raise pH for corrosion control."
+    },
+    {
+      "q": "What does the term 'breakpoint chlorination' mean?",
+      "a": ["The point where the chlorinator physically breaks down due to high pressure", "The addition of chlorine until the total chlorine demand has been satisfied and further addition produces a direct 1-to-1 free chlorine residual", "The level where chlorine turns completely into chloramine gas", "The maximum limit of chlorine allowed by the EPA"],
+      "correct": 1,
+      "why": "Breakpoint chlorination is reached when enough chlorine is added to destroy all organic matter and ammonia compounds, meaning any extra chlorine added creates pure free available residual."
+    },
+    {
+      "q": "What chemical compound is formed when free chlorine reacts with natural ammonia present in raw water?",
+      "a": ["Trihalomethanes", "Chloramines (combined residual)", "Hydrochloric acid", "Sodium chloride"],
+      "correct": 1,
+      "why": "Ammonia binds with chlorine to form chloramines. While chloramines are a weaker disinfectant than free chlorine, they are highly stable and last longer in long distribution pipelines."
+    },
+    {
+      "q": "What type of personal protective equipment (PPE) must be immediately accessible right outside a room housing pressurized chlorine gas cylinders?",
+      "a": ["Leather work gloves", "A Self-Contained Breathing Apparatus (SCBA)", "An arc-flash face shield", "Rubber knee boots"],
+      "correct": 1,
+      "why": "Chlorine gas is highly toxic to breathe. An SCBA provides positive-pressure clean air to an operator in the event of a dangerous chlorine leak."
+    },
+    {
+      "q": "What is the purpose of an emergency safety shower and eyewash station inside a water treatment chemical room?",
+      "a": ["To wash down laboratory equipment at the end of a shift", "To provide immediate water to flush corrosive chemicals off an operator's skin or eyes", "To fill up baseline testing containers", "To serve as a secondary drinking water station"],
+      "correct": 1,
+      "why": "If corrosive chemicals like caustic soda or alum splash onto an operator, they must flush the area with clean water for at least 15 minutes to prevent chemical burns."
+    },
+    {
+      "q": "What does a high 'head loss' reading on a water treatment filter indicate to an operator?",
+      "a": ["The raw water pump has completely lost its prime", "The filter media is heavily loaded with trapped dirt and needs to be backwashed", "The coagulant dose is far too low", "The water level in the clearwell is dropping"],
+      "correct": 1,
+      "why": "Head loss measures the resistance to flow through the filter. As the sand traps more floc, it blocks the water pathways, causing the head loss reading to rise."
+    },
+    {
+      "q": "What chemical is widely used to control taste and odor issues caused by seasonal algae blooms in surface water reservoirs?",
+      "a": ["Powdered Activated Carbon (PAC)", "Sodium chloride", "Fluorosilicic acid", "Anhydrous ammonia"],
+      "correct": 0,
+      "why": "Activated carbon has an incredibly porous surface area that adsorbs dissolved organic compounds responsible for earthy or musty tastes and odors."
+    },
+    {
+      "q": "What are Trihalomethanes (THMs)?",
+      "a": ["Coagulant aids used to make floc heavier", "Disinfection byproducts formed when free chlorine reacts with natural organic matter in the water", "Essential minerals that prevent piping corrosion", "Bacterial indicators used to test filter health"],
+      "correct": 1,
+      "why": "THMs are regulated chemical byproducts formed over time when free chlorine interacts with organic compounds. They are carcinogenic at elevated levels."
+    },
+    {
+      "q": "What is the primary advantage of utilizing a dual-media filter consisting of anthracite coal and silica sand?",
+      "a": ["It softens hard water minerals completely", "The coarser anthracite sits on top, allowing deeper penetration of floc and longer filter run times before clogging", "It eliminates the need for chlorination entirely", "It never requires a backwash cycle"],
+      "correct": 1,
+      "why": "Anthracite has a lower density than sand, so it settles on top during backwashing. Its larger pores trap big particles, while the tighter sand underneath catches the rest."
+    },
+    {
+      "q": "What chemical solution is used to test for a physical gas leak around chlorine cylinder valves and manifold connections?",
+      "a": ["Soapy water mixture", "Concentrated ammonia solution (creates a white smoke cloud near a leak)", "Dilute hydrochloric acid", "Sodium hypochlorite spray"],
+      "correct": 1,
+      "why": "Ammonia gas reacts with leaking chlorine gas to create a highly visible white cloud of ammonium chloride smoke, pinning down the exact leak site."
+    },
+    {
+      "q": "What is the primary hazard of a 'cross-connection' in a water treatment facility?",
+      "a": ["It causes the water meters to run backward", "It permits non-potable or contaminated fluids to enter the treated, safe drinking water stream", "It reduces the overall life of centrifugal pump impellers", "It lowers the natural fluoride content of the water"],
+      "correct": 1,
+      "why": "Cross-connections physically link potable systems with unsafe sources, risking severe biological or chemical contamination if backflow occurs."
+    },
+    {
+      "q": "What does an exceptional rise in the turbidity of raw surface water entering a plant typically require an operator to do?",
+      "a": ["Shut off the filters entirely and bypass treatment", "Perform a jar test to determine if the coagulant chemical dosage needs to be adjusted", "Decrease the post-chlorine dose rate", "Increase the speed of the sedimentation scrapers to max"],
+      "correct": 1,
+      "why": "A jar test simulates the plant's coagulation/flocculation process in a lab setting, allowing operators to safely find the ideal chemical dosage for changing raw water conditions."
+    },
+    {
+      "q": "What type of primary pump is most commonly utilized to draw water from deep groundwater aquifers or wells?",
+      "a": ["Peristaltic chemical pump", "Vertical turbine or submersible pump", "Diaphragm metering pump", "Rotary gear pump"],
+      "correct": 1,
+      "why": "Vertical turbine and submersible multi-stage centrifugal pumps are specifically engineered to fit down deep well casings and push water high up to the surface."
+    },
+    {
+      "q": "What standard water quality parameter measures the relative concentration of hydrogen ions to determine if water is acidic, neutral, or basic?",
+      "a": ["Turbidity", "Alkalinity", "pH", "Specific conductance"],
+      "correct": 2,
+      "why": "pH runs on a scale from 0 to 14. A pH of 7.0 is perfectly neutral, below 7.0 is acidic, and above 7.0 is basic or alkaline."
+    },
+    {
+      "q": "What is the primary cause of 'mudball' formation inside a rapid sand filtration basin?",
+      "a": ["Too much anthracite coal dissolving over time", "Inadequate or weak filter backwashing that leaves sticky floc residue behind to clump together", "Feeding too much powdered activated carbon directly into the clearwell", "Using water with excessive calcium hardness levels"],
+      "correct": 1,
+      "why": "If backwash flow rates are too low or duration is too short, sticky floc particles aren't fully removed. They stick to sand grains, forming heavy mudballs that ruin filtration."
+    },
+    {
+      "q": "What standard laboratory chemical indicator turns a water sample pink if a free chlorine residual is actively present?",
+      "a": ["Silver nitrate", "DPD (Diethyl-p-phenylenediamine)", "Phenolphthalein", "Methyl orange"],
+      "correct": 1,
+      "why": "DPD indicators react specifically with oxidizers like chlorine, turning the solution pink. The intensity of the color matches the concentration of the residual."
+    },
+    {
+      "q": "What is the primary role of a 'clearwell' reservoir at a water treatment plant?",
+      "a": ["To store raw water before any chemicals are added", "To provide final storage of treated water and ensure adequate contact time for disinfection compliance", "To handle backwash waste sludge settling", "To remove iron via atmospheric evaporation"],
+      "correct": 1,
+      "why": "Clearwells act as the final safe buffer storage, smoothing out production demands and ensuring treated water sits with disinfectant long enough to achieve pathogen inactivation."
+    },
+    {
+      "q": "What chemical element is added to drinking water explicitly to support public dental health by reducing tooth decay?",
+      "a": ["Calcium oxide", "Fluoride", "Sodium sulfate", "Magnesium carbonate"],
+      "correct": 1,
+      "why": "Fluoridation is a carefully regulated public health measure where fluoride compounds are dosed to optimal levels to prevent cavities."
+    },
+    {
+      "q": "What happens if an operator pumps water out of a groundwater well at a rate faster than the aquifer recharges?",
+      "a": ["The water temperature will drop rapidly", "The water table drops, creating a cone of depression around the well casing", "The chlorine demand of the well water drops to zero", "The well casing will expand physically"],
+      "correct": 1,
+      "why": "Over-pumping pulls the surrounding water table down into a funnel shape known as a cone of depression, which can dry out neighboring shallow wells."
+    },
+    {
+      "q": "Which type of chemical feeder is designed to measure and dose dry powder chemicals like lime or alum into the treatment stream?",
+      "a": ["Peristaltic pump feeder", "Volumetric or gravimetric dry feeder", "Gas chlorinator vacuum loop", "Diaphragm induction pump"],
+      "correct": 1,
+      "why": "Dry feeders dose solids either by volume (using a screw or rotating disc) or by weight (gravimetric), which provides maximum precision."
+    },
+    {
+      "q": "What do we call the layer of water that forms at the very bottom of a sedimentation basin, consisting of accumulated settled solids?",
+      "a": ["Floc matrix", "Sludge blanket", "Supernatant", "Filter cake"],
+      "correct": 1,
+      "why": "Sludge is the thick concentrated mass of settled floc solids that must be swept out regularly by scrapers to maintain basin capacity."
+    },
+    {
+      "q": "What is the definition of water 'hardness'?",
+      "a": ["The physical force required to pump water through a pipe", "The concentration of multivalent metallic cations, primarily calcium and magnesium ions", "The amount of chlorine needed to cause a breakpoint", "The total volume of suspended sand particulates"],
+      "correct": 1,
+      "why": "Hardness is caused by dissolved calcium and magnesium minerals leached from rocks, which can cause scale buildup in water heaters and pipes."
+    },
+    {
+      "q": "What piece of laboratory equipment is utilized to measure the turbidity or clarity of a water sample?",
+      "a": ["Burette column", "Nephelometer (turbidimeter)", "Amperometric titrator", "pH probe meter"],
+      "correct": 1,
+      "why": "Nephelometers pass light through a sample and measure how much light is scattered at a 90-degree angle by suspended particles."
+    },
+    {
+      "q": "What biological group does the Total Coliform Rule target as an indicator for potential pathogen contamination?",
+      "a": ["Protozoan cysts exclusively", "Coliform bacteria", "Algal blooms", "Iron-reducing fungi"],
+      "correct": 1,
+      "why": "Coliforms themselves are usually harmless, but they survive similarly to waterborne pathogens, making them an excellent 'indicator' organism."
+    },
+    {
+      "q": "What is the primary concern when treating raw water that has a extremely low pH value (below 6.0)?",
+      "a": ["It will form excessive mudballs in the filters", "It is highly corrosive and can leach lead and copper from customer plumbing lines", "It will completely neutralize the fluoride dose", "It will cause the water to taste sugary"],
+      "correct": 1,
+      "why": "Acidic water strips protective mineral coatings from pipes, causing corrosion that can leach toxic metals like lead and copper into consumer taps."
+    },
+    {
+      "q": "What device regulates the flow of water onto a filter bed to prevent water levels from spilling over the basin edge?",
+      "a": ["Effluent control valve", "Influent weir or control gate", "Check valve spring", "Foot valve assembly"],
+      "correct": 1,
+      "why": "Influent gates or modulating valves balance incoming raw water with the filtration rate to prevent overflow or dry-bed conditions."
+    },
+    {
+      "q": "What is the term for the process of removing iron and manganese from water by exposing it to atmospheric oxygen to form solid precipitates?",
+      "a": ["Flocculation mixing", "Aeration and oxidation", "Breakpoint chlorination", "Adsorption filtering"],
+      "correct": 1,
+      "why": "Aeration mixes oxygen into water, turning dissolved iron and manganese into solid rust particles that can easily be filtered out."
+    },
+    {
+      "q": "What should an operator do immediately if a gas chlorinator room's automatic chlorine sensor alarm sounds?",
+      "a": ["Run inside to check the cylinder valves manually without PPE", "Evacuate the area, secure the site, and put on an SCBA before locating the leak", "Turn up the room's thermostat heater", "Bypass the alarm circuitry completely"],
+      "correct": 1,
+      "why": "Safety first. You must treat every chlorine alarm as a major leak hazard, protect your airway with an SCBA, and follow your plant's safety plan."
+    }
+  ],
+  "math": [
+    {
+      "q": "A water treatment plant treats a steady flow rate of 2.0 Million Gallons per Day (MGD). If the operator doses chlorine gas at a rate of 3.0 mg/L, how many pounds of chlorine gas are fed per day?",
+      "a": ["25.4 lbs/day", "50.0 lbs/day", "65.2 lbs/day", "83.4 lbs/day"],
+ 
